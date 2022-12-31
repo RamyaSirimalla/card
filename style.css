@@ -1,0 +1,25 @@
+.middle {
+    border: solid 2px;
+    width: 245px;
+    height: 800;
+    padding: 20px;
+
+}
+
+span {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+button {
+    background-color: rgb(235, 68, 96);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.ramya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
